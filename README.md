@@ -11,7 +11,7 @@ Players join as Terrorists or Counter-Terrorists, perform actions like:
 
 🚶 Move across zones (planned) 
 
-💣 Plant/defuse a bomb (in progress)
+💣 Plant/defuse a bomb (in progress) 
 
 🎯 Eliminate the enemy team
 
