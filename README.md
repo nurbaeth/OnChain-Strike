@@ -20,7 +20,7 @@ Players join as Terrorists or Counter-Terrorists, perform actions like:
 No off-chain servers. No backend. 100% smart contract logic.
 
 ⚙️ Tech Stack
-Solidity (Smart contracts)
+Solidity (Smart contracts) 
 
 Hardhat (Development, testing)
 
