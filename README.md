@@ -26,7 +26,7 @@ Hardhat (Development, testing)
 
 OpenZeppelin (Security libraries)
 
-Ethereum-compatible chains (EVM)
+Ethereum-compatible chains (EVM)  
 
 🚀 Features
 ✅ Team joining
