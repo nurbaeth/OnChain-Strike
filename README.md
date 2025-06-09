@@ -37,7 +37,7 @@ Ethereum-compatible chains (EVM)
 
 ✅ Action validation
 
-🔜 Bomb planting & defusal
+🔜 Bomb planting & defusal  
 
 🔜 Map movement
 
