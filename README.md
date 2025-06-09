@@ -24,7 +24,7 @@ Solidity (Smart contracts)
 
 Hardhat (Development, testing)
 
-OpenZeppelin (Security libraries)
+OpenZeppelin (Security libraries)  
 
 Ethereum-compatible chains (EVM)  
 
