@@ -23,7 +23,7 @@ No off-chain servers. No backend. 100% smart contract logic.
 Solidity (Smart contracts)   
 
 Hardhat (Development, testing)
-
+  
 OpenZeppelin (Security libraries)  
 
 Ethereum-compatible chains (EVM)  
