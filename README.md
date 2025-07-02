@@ -14,7 +14,7 @@ Players join as Terrorists or Counter-Terrorists, perform actions like:
 💣 Plant/defuse a bomb (in progress)   
   
 🎯 Eliminate the enemy team  
-  
+    
 🧠 Make smart decisions, because everything is on-chain
 
 No off-chain servers. No backend. 100% smart contract logic.
