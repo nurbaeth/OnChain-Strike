@@ -28,7 +28,7 @@ OpenZeppelin (Security libraries)
   
 Ethereum-compatible chains (EVM)  
  
-🚀 Features  
+🚀 Features   
 ✅ Team joining
 
 ✅ Turn-based rounds
