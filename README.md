@@ -1,4 +1,4 @@
-🧨 OnChain Strike           
+🧨 OnChain Strike             
 A fully on-chain tactical shooter inspired by CS:GO — written in Solidity.      
           
 <!-- Заменишь ссылку на баннер позже -->  
