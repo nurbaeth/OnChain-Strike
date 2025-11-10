@@ -1,7 +1,7 @@
 🧨 OnChain Strike              
 A fully on-chain tactical shooter inspired by CS:GO — written in Solidity.         
              
-<!-- Заменишь ссылку на баннер позже -->    
+<!-- Заменишь ссылку на баннер позже -->     
          
 🎮 Game Concept       
 OnChain Strike is a turn-based, tactical simulation of a 5v5 shooter game — entirely on the blockchain.      
