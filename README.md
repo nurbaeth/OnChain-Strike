@@ -22,7 +22,7 @@ No off-chain servers. No backend. 100% smart contract logic.
 ⚙️ Tech Stack 
 Solidity (Smart contracts)   
   
-Hardhat (Development, testing)
+Hardhat (Development, testing) 
   
 OpenZeppelin (Security libraries)  
     
