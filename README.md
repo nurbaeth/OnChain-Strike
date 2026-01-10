@@ -9,7 +9,7 @@ Players join as Terrorists or Counter-Terrorists, perform actions like:
       
 🔫 Shoot opponents 
       
-🚶 Move across zones (planned) 
+🚶 Move across zones (planned)  
  
 💣 Plant/defuse a bomb (in progress)   
     
